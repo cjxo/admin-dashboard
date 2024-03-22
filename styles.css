@@ -263,7 +263,7 @@ img {
 
 .profile-card {
     display: flex;
-    gap: 4px;
+    gap: 16px;
 
     align-items: center;
 }
